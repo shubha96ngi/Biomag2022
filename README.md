@@ -1,4 +1,4 @@
-# meg analysis algorithm 
+# meg analysis algorithm for dementia
 
 # algo1 MATLAB
 
